@@ -1,6 +1,5 @@
 # Jogo-da-Velha-em-C
-Jogo da Velha em C. Projeto para Faculdade.
-Projeto do primeiro semestre do Curso de Ciência da Computação.
+Jogo da Velha em C como projeto do primeiro semestre do Curso de Ciência da Computação.
 
 
 ![Menu](https://github.com/LucasM-coding/Jogo-da-Velha-em-C/assets/131298511/25877f4c-929b-41dd-aca6-d08e7086f04e)
